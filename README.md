@@ -7,4 +7,3 @@
 - 📫 How to reach me: LinkdIn - https://www.linkedin.com/in/nisar-makdum/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I dont have any kind of Fun fact Cz I'm a JavaScript Programmer. 😄
--->
