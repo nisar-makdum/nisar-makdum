@@ -1,7 +1,5 @@
 ### Hello, I'm Nisar Makdum | 👋
 
-
-
 - 🌱 I’m currently learning Full Stack Web Development 😄
 - 👯 I’m looking to collaborate on web learner
 - 📫 How to reach me: LinkdIn - [@nisar-makdum](https://www.linkedin.com/in/nisar-makdum/)
